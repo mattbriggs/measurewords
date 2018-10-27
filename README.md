@@ -13,7 +13,7 @@ A practice is the act of rehearsing a tacit skill or engaging in an activity aga
 
 While a practitioner can eventually achieve mastery of their discipline, they are also concerned with continued growth and maintenance of their skills. The mindset of the practitioner is often the same as any ardent student. The continued growth of skills for a practitioner depends on a number of things such as frequency of practice, sources of new technique and ideas, and feedback to the products of their practice.
 
-Jerry Sienfield in [a recent interview](https://www.nytimes.com/2018/10/26/arts/television/jerry-seinfeld-interview.html) answered this question: "Do you think comedians learned the wrong lessons in that earlier era, and came away believing they could do whatever they wanted?"
+Jerry Seinfeld in [a recent interview](https://www.nytimes.com/2018/10/26/arts/television/jerry-seinfeld-interview.html) answered this question: "Do you think comedians learned the wrong lessons in that earlier era, and came away believing they could do whatever they wanted?"
 
 "You can’t do whatever you want. You can only do what works — if you want to have a career. What I do onstage is what the past 300 audiences decided worked. That’s good, that’s not good. You have to make the audience laugh a certain amount or they don’t come back. That’s why I wear a suit. It’s a signal: I’m not loafing here. I’m about this."
 
