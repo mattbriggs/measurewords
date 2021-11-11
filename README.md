@@ -178,7 +178,7 @@ To run the scripts you will need to install a few of the prerequistes.
     ```
     pip install -r requirements.txt
     ```
-3. Install the training models for the Natural Language Toolkit ([NLTK]((http://www.nltk.org)). Run the following Python module from the root of the repository:
+3. Install the training models for the [Natural Language Toolkit (NLTK)](http://www.nltk.org). Run the following Python module from the root of the repository:
     ```
     python -m ./firstrun.py
     ```
