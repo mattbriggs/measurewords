@@ -15,7 +15,7 @@ While a practitioner can eventually achieve mastery of their discipline, they ar
 
 Jerry Seinfeld in [a recent interview](https://www.nytimes.com/2018/10/26/arts/television/jerry-seinfeld-interview.html) answered this question: "Do you think comedians learned the wrong lessons in that earlier era, and came away believing they could do whatever they wanted?"
 
-"You can’t do whatever you want. You can only do what works — if you want to have a career. What I do onstage is what the past 300 audiences decided worked. That’s good, that’s not good. You have to make the audience laugh a certain amount or they don’t come back. That’s why I wear a suit. It’s a signal: I’m not loafing here. I’m about this."
+"You can't do whatever you want. You can only do what works — if you want to have a career. What I do onstage is what the past 300 audiences decided worked. That's good, that's not good. You have to make the audience laugh a certain amount or they don't come back. That's why I wear a suit. It's a signal: I'm not loafing here. I'm about this."
 
 As a process, a writing practice is a loop that includes generating work, presenting work, and then listening to an audience, and doing something with that response to go back to the beginning and produce more work.
 
@@ -25,7 +25,7 @@ With a writing practice, a writer writes regularly, but also seeks feedback on t
 
 This repo contains Python scripts that you can run on text files to generate reports about your writing. These scripts are works in progress, and your feedback is welcome in helping improve both the code quality but also the usefulness of the algorithms.
 
-This repo contains the following scripts:
+This repo contains the following scripts in the `modules` folder:
 
 - [Concordance](#concordance) (word count)
 - [N-Gram](#n-gram) (word pair count)
@@ -34,6 +34,48 @@ This repo contains the following scripts:
 - [Parts-of-Speech](#parts-of-speech) (part-of-speech frequency)
 - [Reading level](#reading-level) (reading grade level)
 
+## SEO on-page score
+
+The Search Engine keyword analysis has been adapted to a command line tool using Python CMD module.
+
+After you follow the steps in [Get started with the scripts](#get-started-with-thescripts), you can the SEO tool.
+
+From the root directory for the repo, type:
+
+```
+python -m ./seoonpage/seoonpagecli.py
+```
+
+When the script loads, type:
+
+```
+keywords <full-path-to-your-markdownfile.md>
+```
+
+The script will return a table in the terminal ranking the keywords by prominence. For example:
+
+```
+Keyword scores for + <full-path-to-your-markdownfile.md>
++------+------------------+
+| Rank | Keyword          |
++------+------------------+
+|  1   | Azure Stack      |
+|  2   | Topic test       |
+|  3   | freight train    |
+|  4   | Hanley Turner    |
+|  5   | Kentucky boys    |
+|  6   | racing season    |
+|  7   | livery barn      |
+|  8   | home town        |
+|  9   | Churchhill Downs |
+|  10  | sweet potatoes   |
++------+------------------+
+```
+
+
+## Modules
+
+The following list explains each module.
 ### Concordance
 
 **Script**: `Concordance.py `  
@@ -131,10 +173,16 @@ https://coolpythoncodes.com/flesch-index-python-script/
 
 To run the scripts you will need to install a few of the prerequistes.
 
-1. Install [Python 3.6](https://www.python.org/downloads/)
-2. Install the Natural Language Toolkit (NLTK). You can find the instructions at [Installing NLTK](http://www.nltk.org/install.html). Note, NLTK NLTK requires Python versions 2.7, 3.4, 3.5, or 3.6. I ran these scripts using Python 3.6.
-3. Once you've installed NLTK, you'll also need to install the data by following the instructions at http://www.nltk.org/data. 
+1. Install [Python 3.9](https://www.python.org/downloads/)
+2. Install the dependent Python modules. From the root of the repository, type:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Install the training models for the Natural Language Toolkit ([NLTK]((http://www.nltk.org)). Run the following Python module from the root of the repository:
+    ```
+    python -m ./firstrun.py
+    ```
 
-    The scripts can use as input by updating the input parameter a filepath and filename, for example, `c:\data\mymarkdownfile.md`.
+## Providing feedback
 
-    They will output reports as a comma-deliminated file (CSV).
+Please file any feedback or issues as a [GitHub issue](https://github.com/mattbriggs/measurewords/issues) in the repository.
