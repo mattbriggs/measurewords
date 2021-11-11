@@ -36,9 +36,9 @@ This repo contains the following scripts in the `modules` folder:
 
 ## SEO on-page score
 
-The Search Engine keyword analysis has been adapted to a command line tool using Python CMD module.
+The Search Engine keyword analysis has been adapted to a command line tool using the Python `CMD` module.
 
-After you follow the steps in [Get started with the scripts](#get-started-with-thescripts), you can the SEO tool.
+After you follow the steps in [Get started with the scripts](#get-started-with-the-scripts), you can use the SEO tool.
 
 From the root directory for the repo, type:
 
