@@ -9,7 +9,7 @@ You can gain valuable insight into your writing by measuring your words. The mea
 
 The term *writing practice* comes from the writing process movement. A good introduction to the ideas of writing process is Peter Elbow's classic book, *[Writing Without Teachers](https://en.wikipedia.org/wiki/Peter_Elbow#Writing_Without_Teachers)*. 
 
-A practice is the act of rehearsing a tacit skill or engaging in an activity again and again for the purpose of improving or mastering the skill. You have heard the phrase "practice makes perfect," or the term *practitioner*, a person actively engaged in an art, discipline, or profession. A practicing musicians runs scales. A practicing swimmer swims laps. A practicing writer writers words.
+A practice is the act of rehearsing a tacit skill or engaging in an activity again and again for the purpose of improving or mastering the skill. You have heard the phrase "practice makes perfect," or the term *practitioner*, a person actively engaged in an art, discipline, or profession. A practicing musicians runs scales. A practicing swimmer swims laps. A practicing writer writes words.
 
 While a practitioner can eventually achieve mastery of their discipline, they are also concerned with continued growth and maintenance of their skills. The mindset of the practitioner is often the same as any ardent student. The continued growth of skills for a practitioner depends on a number of things such as frequency of practice, sources of new technique and ideas, and feedback to the products of their practice.
 
