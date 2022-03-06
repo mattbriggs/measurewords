@@ -19,7 +19,7 @@ Jerry Seinfeld in [a recent interview](https://www.nytimes.com/2018/10/26/arts/t
 
 As a process, a writing practice is a loop that includes generating work, presenting work, and then listening to an audience, and doing something with that response to go back to the beginning and produce more work.
 
-With a writing practice, a writer writes regularly, but also seeks feedback on their product of her writing. A writer may need an editor, a first reader, an audience. A writer can also incorporate mechanical feedback mechanisms into their writing such as word count, ways of assessing how they use words by looking at word and term frequency, part of speech frequency, and the reading level of their work.
+With a writing practice, a writer writes regularly, but also seeks feedback on the product of their writing. A writer may need an editor, a first reader, an audience. A writer can also incorporate mechanical feedback mechanisms into their writing such as word count, ways of assessing how they use words by looking at word and term frequency, part of speech frequency, and the reading level of their work.
 
 ## Scripts to measure words
 
