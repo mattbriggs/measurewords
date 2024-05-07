@@ -24,7 +24,7 @@ pytz==2021.3
 regex==2021.11.9
 six==1.16.0
 toml==0.10.2
-tqdm==4.62.3
+tqdm==4.66.3
 typing-extensions==3.10.0.2
 wcwidth==0.2.5
 wrapt==1.13.3
